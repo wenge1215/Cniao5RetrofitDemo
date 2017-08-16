@@ -3,7 +3,8 @@ package com.cniao5.cniao5retrofitdemo.bean;
 import java.io.Serializable;
 
 /**
- * Created by Ivan on 2016/10/7.
+ * Created by Wen on 2016/10/7.
+ *
  */
 
 public class BaseResult<T> implements Serializable {
